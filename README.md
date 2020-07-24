@@ -11,7 +11,7 @@ No warranties whatsoever, use as is at your own risk.
 You will need:
 - api itself (http://www.kerio.ru/learn-community/developer-zone/details)
 - web-server (blame Kerio)
-- files from distr
+- files from repo
 
 Install:
 - put api in www folder on you web-server
