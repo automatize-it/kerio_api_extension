@@ -1,10 +1,10 @@
 # kerio_api_extension
-My extension of Kerio API, currently allowing to ad IP addresses to lists in Kerio Control
+My extension of Kerio API, currently allows to add IP addresses to lists in Kerio Control
 
 This is extension of beta API for old Kerio products (Control, Connect), currently provides function of modifying IP-list in Kerio Control,
 for example Fail2Ban and other autoban software may need it.
 
-This function was not in beta API I found and wasn't started to be implemented due to json encoding difficulties (my best guess)
+This function was not in beta API that I found and wasn't started to be implemented due to json encoding difficulties (my best guess)
 
 No warranties whatsoever, use as is at your own risk.
 
